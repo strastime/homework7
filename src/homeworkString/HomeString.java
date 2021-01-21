@@ -8,7 +8,6 @@ public class HomeString {
     public static void main(String[] args) {
         meString ("I like Java!!!");
     }
-
     public static void meString (String stroka){
 //a) Напишите метод, который принимает в качестве параметра любую строку, например “I like Java!!!”.
         System.out.println(stroka);
